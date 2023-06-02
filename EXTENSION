@@ -1,0 +1,19 @@
+open the link that is google of the editor
+in the right from the editors button
+
+it should be able whats written in the visual studio code file as synced website on a side panel of visual studio code
+
+must launch RunPod/docker payloads to convert a text file into the GitHub repos, image, rich text, custom file formats
+
+
+should syncronize generated id_rsa.pub with GitHub thats opened in the browser
+
+should syncronize Github, Google Cloud, AWS, any other cloud or any other payment logins
+
+
+should optionally open arbitrary website and pinned set of the websites as a tabs in visual studio code
+
+
+
+editor=Visual Studio Code
+package_format=plugin
