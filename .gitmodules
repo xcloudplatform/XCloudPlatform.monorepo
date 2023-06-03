@@ -1,0 +1,3 @@
+[submodule "HumanLogger"]
+	path = HumanLogger
+	url = git@github.com:xcloudplatform/HumanLogger.git
