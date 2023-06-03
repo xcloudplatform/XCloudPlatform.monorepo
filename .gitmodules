@@ -1,3 +1,21 @@
 [submodule "HumanLogger"]
 	path = HumanLogger
 	url = git@github.com:xcloudplatform/HumanLogger.git
+[submodule "HumanLog"]
+	path = HumanLog
+	url = git@github.com:xcloudplatform/HumanLog.git
+[submodule "xcloudplatform.github.io"]
+	path = xcloudplatform.github.io
+	url = git@github.com:xcloudplatform/xcloudplatform.github.io.git
+[submodule "Terraform"]
+	path = Terraform
+	url = git@github.com:xcloudplatform/Terraform.git
+[submodule "ChatHost"]
+	path = ChatHost
+	url = git@github.com:xcloudplatform/ChatHost.git
+[submodule "TestFarm"]
+	path = TestFarm
+	url = git@github.com:xcloudplatform/TestFarm.git
+[submodule "ScreenshotAI"]
+	path = ScreenshotAI
+	url = git@github.com:xcloudplatform/ScreenshotAI.git
